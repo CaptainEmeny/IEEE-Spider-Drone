@@ -1,3 +1,5 @@
+#include <Adafruit_TinyUSB.h>
+
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
 }

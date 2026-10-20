@@ -9,7 +9,7 @@ Open the Arduino IDE and go to **Preferences** and add the following board to '*
 
 ```
 https://raw.githubusercontent.com/pdcook/nRFMicro-Arduino-Core/main/package_nRFMicro_index.json
-https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json](https://raw.githubusercontent.com/pdcook/nRFMicro-Arduino-Core/3dab6477754d9b28053fe36b06c718cde6e93d3f/package_nRFMicro_index.json
+https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 ```
 
 Next, install those boards:  
